@@ -1,11 +1,15 @@
 {
-  "name": "colors",
+  "name": "@tleef/colors",
   "version": "1.0.0",
   "description": "Material design inspired color system",
   "main": "lib/index.js",
-  "repository": "git@github.com:tleef/colors.git",
   "author": "Tom Lee <tom@tleef.com>",
   "license": "MIT",
+  "repository": "git@github.com:tleef/colors.git",
+  "bugs": {
+    "url": "https://github.com/tleef/colors/issues"
+  },
+  "homepage": "https://github.com/tleef/colors#readme",
   "devDependencies": {
     "typescript": "^3.8.3"
   },
